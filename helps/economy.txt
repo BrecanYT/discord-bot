@@ -1,0 +1,14 @@
+&chelp Eco ○○Economy○○ 
+prefijo principal es "&"
+
+**Economia**
+┣━Work: Trabaja un poco
+┣━Daily: Reclama tu premio diario +1000$
+┣━Slots: Juega a la loteria un poco -200$
+┣━Coin: Tira la moneda si sale cara ganas 100$ si no pierdes 50$
+┣━Pay: Da algo de dinero a otra persona  *Formato : Pay <Usuario(Requerido)> <Money(Requerido)>*
+┗━Dorime: Invoca a Diosito  *Formato : Happy <Usuario(opcional)>*
+
+
+img: helps\Commandos (2).png 
+Real Path: C:\Users\ejane\Desktop\discordbot\DiscordBot\helps\Commandos (2).png

@@ -1,0 +1,11 @@
+&chelp en-sfw ○○Nsfw+18○○ 
+Principal prefix es "&"
+
+**Nsfw**
+┣━Spank: Spank anyone *Formato : Spank <Usuario(Requerido)>* 
+┣━Lick: Lick OwO *Formato : Spank <Usuario(Opcional)>*
+┣━Trap: Wow a trap
+┗━Prox More
+
+
+img: helps\Commandos (4).png 

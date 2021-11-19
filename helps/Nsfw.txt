@@ -1,0 +1,12 @@
+&chelp Nsfw ○○Nsfw+18○○ 
+prefijo principal es "&"
+
+**Nsfw**
+┣━Spank: Nalguea  alguein *Formato : Spank <Usuario(Requerido)>* 
+┣━Lick: Lamete OwO *Formato : Spank <Usuario(Opcional)>*
+┣━Trap: Wow a trap
+┗━Proximamente More
+
+
+img: helps\Commandos (4).png 
+Real Path: C:\Users\ejane\Desktop\discordbot\DiscordBot\helps\Commandos (4).png

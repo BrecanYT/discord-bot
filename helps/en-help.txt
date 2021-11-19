@@ -1,0 +1,25 @@
+&chelp en-help ○○Commands○○ 
+Principal prefix "&"
+
+**Comandos Principales**
+┣━Help : The command to send this message
+┗━Ticket : If appear a problem use this command :tickets:
+
+
+**Reaction**
+┗━Help reaction : Show the commands of reaction
+
+**Action**
+┗━Help action : Show the commands of action
+
+**Economia**
+┗━Help eco : Show the commands of economy
+
+**Admin**
+┗━Help admin:  show the help of **Admin**
+
+**Music**
+┗━mhelp:  show the help of **music**
+
+**Nsfw**
+┗━Help nsfw:  show the help of **Nsfw** *You need to send in a NSFW channel*

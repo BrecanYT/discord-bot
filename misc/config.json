@@ -1,0 +1,14 @@
+{
+    "bot_token": "<discord bot token here>",
+    "status": {
+        "state": "idle",
+        "type": "PLAYING",
+        "name": "Trabajando para Arn-Connect"
+    },
+    "chat": {
+        "url": "http://api.brainshop.ai/get",
+        "brainID": "160927",
+        "key": "dRn0v76H6UwlFGkj",
+        "channel": "903727183720235018"
+    }
+}

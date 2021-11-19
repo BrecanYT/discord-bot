@@ -1,0 +1,18 @@
+&chelp en-interaction ○○Interaction○○ 
+Principal Prefix "&"
+
+**Interacción**
+┣━Bite: Bite anyone *Format : Bite <User(optional)>*
+┣━Baka: BAKA! *Format : Baka <User(optional)>*
+┣━Angry: Agryyy *Format : Angry <User(optional)>*
+┣━Yes: Say si  *Format : Yes <User(optional)>*
+┣━No: Say no  *Format : No <User(optional)>*
+┣━Clap: Claps  *Format : Clap <User(optional)>*
+┣━Hug: Hug anyone  *Format : Hug <User(optional)>*
+┣━Calm: Calm  *Format : Calm <User(optional)>*
+┣━Pat: Pat anyone  *Format : Pat <User(require)>*
+┣━Kiss: Kiss anyone UwU  *Format : Kiss <User(require)>*
+┗━Laugh: Laugh of user or only laugh  *Format : Laugh <User(optional)>*
+
+img: helps\Commandos (1).png 
+Real Path: C:\Users\ejane\Desktop\discordbot\DiscordBot\helps\Commandos (1).png

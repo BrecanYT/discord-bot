@@ -1,0 +1,16 @@
+&chelp en-eco ○○Economy○○ 
+Principal Prefix "&"
+
+**Economia**
+┣━Work: Work a bit
+┣━Daily: Claim the daily reward +1000$
+┣━Inventory / inv: Open your inventory
+┣━User: Show user information *Format : User <User(Optional)>*
+┣━Slots: Play the lottery slots -200$
+┣━Coin: Throw the coin if win gain 100$ else lost 50$
+┣━Pay: Give your money to other players  *Format : Pay <User(Require)> <Money(Require)>*
+┗━Shop: Open the shop for bough items 
+
+
+img: helps\Commandos (2).png 
+Real Path: C:\Users\ejane\Desktop\discordbot\DiscordBot\helps\Commandos (2).png

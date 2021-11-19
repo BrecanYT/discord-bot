@@ -1,0 +1,19 @@
+&chelp en-admin ○○Admin○○ 
+prefijo principal es "&"
+
+**Admin**
+┣━addmoney: Give money to anyone *Format : addmoney <User(Req)>* 
+┣━takemoney: Take money of anyone *Format : takemoney <User(Req)>* 
+┣━setmoney: Set money of anyone *Format : setmoney <User(Req)>* 
+┣━ban: Banea a user *Format : ban <User(Req)> <Razon(Req)>* 
+┣━warn: Warn a user *Format : warn <User(Req)> <Razon(Req)>* 
+┣━Mute: Mute a user  permanente*Format : mute <User(Req)>* 
+┣━Tempmute: Mute a user temporal *Format : tempmute <User(Req)> <time(Req)>* 
+┣━Unmute: Unmute a user temporal *Format : unmute <User(Req)>* 
+┣━Setchannel:  *Format: setchannel <ia/...> <channel> *
+┣━setmanarole:  *Format : setmanarole <User(Req)>*
+┗━Proximamente More
+
+
+img: helps\Commandos (5).png 
+Real Path: C:\Users\ejane\Desktop\discordbot\DiscordBot\helps\Commandos (5).png

@@ -1,0 +1,10 @@
+&chelp en-action ○○Action○○
+Principal Prefix "&"
+
+Action
+┣━Kill: Kill a user *Format : Kill <User(optional)>*
+┣━Slap: Slap anyone *Format : Slap <User(optional)>*
+┣━Dance: Go to dance *Format : Dance <User(optional)>*
+┣━Bored: Soo boring *Format : Bored <User(optional)>*
+┣━Happy: You are happy *Format : Happy <User(optional)>*
+┗━Dorime: Call a god *Format : Dorime <User(optional)>*

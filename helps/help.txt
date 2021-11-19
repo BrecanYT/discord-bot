@@ -1,0 +1,31 @@
+&chelp help ○○Commandos○○ 
+prefijo principal es "&"
+
+**Comandos Principales**
+┣━For English : ad "en" before the syntax like "&help en-interaction"
+┣━Help : El comando para mostrar este mensaje
+┗━Ticket : Si hay algun problema usa el comando :tickets:
+
+
+**Interacción**
+┗━Help  Interaction: Muestra la ayuda de **Interacción**
+
+**Acción**
+┗━Help  Action: Muestra la ayuda de **Acción**
+
+**Economia**
+┗━Help  Eco: Muestra la ayuda de **Economia**
+
+**Admin**
+┗━Help  Admin: Muestra la ayuda de **Admin**
+
+**Music**
+┗━mhelp: Muestra los comando de la **musica**
+
+**Nsfw**
+┗━Help  Nsfw: Muestra la ayuda de **Nsfw** *Debes estar en un canal Nsfw*
+
+
+
+img: helps\Commandos.png 
+Real Path: C:\Users\ejane\Desktop\discordbot\DiscordBot\helps\Commandos.png
