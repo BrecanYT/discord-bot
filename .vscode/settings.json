@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:DiscordBot}/json.sqlite",
+            "name": "SeonYilDB"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
