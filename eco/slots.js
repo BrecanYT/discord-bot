@@ -8,7 +8,7 @@ var eco = new db.table('eco')
 const talkedRecently = new Set();
 
 module.exports = async (message, args) => {
-    
+    const author = message.author.id;
     const cub = await eco.get(message.author.id + '.balance')
     if(cub > 250) {
         let ErrorEmbed = new MessageEmbed()

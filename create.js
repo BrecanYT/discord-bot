@@ -54,28 +54,38 @@ client.on('messageCreate', async (message) => {
     //Essentials
     const cmd = readdirSync('./cmds').find(file => file.startsWith(command))
     if(cmd) await require(`./cmds/${cmd}`)(message, args)
+    //('./cmds')
     //action
     const cmd1 = readdirSync('./action').find(file => file.startsWith(command))
     if(cmd1) await require(`./action/${cmd1}`)(message, args)
+    //('./action')
     //reaction
     const cmd2 = readdirSync('./reaction').find(file => file.startsWith(command))
     if(cmd2) await require(`./reaction/${cmd2}`)(message, args)
+    //('./reaction')
     //anime
     const cmd3 = readdirSync('./anime').find(file => file.startsWith(command))
     if(cmd3) await require(`./anime/${cmd3}`)(message, args)
+    //('./anime')
     //fun
     const cmd4 = readdirSync('./fun').find(file => file.startsWith(command))
     if(cmd4) await require(`./fun/${cmd4}`)(message, args)
+    //('./fun')
     //others
     const cmd5 = readdirSync('./nsfw').find(file => file.startsWith(command))
     if(cmd5) await require(`./nsfw/${cmd5}`)(message, args)
+    //('./nsfw')
     //economy
     const cmd6 = readdirSync('./eco').find(file => file.startsWith(command))
     if(cmd6) await require(`./eco/${cmd6}`)(message, args)
+    //('./eco')
     //mc
     const cmd7 = readdirSync('./mc').find(file => file.startsWith(command))
     if(cmd7) await require(`./mc/${cmd7}`)(message, args)
+    //('./mc')
 })
+
+
 
 function savestring(DIR, name) {
     

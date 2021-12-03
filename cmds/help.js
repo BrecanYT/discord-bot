@@ -20,7 +20,7 @@ module.exports = async (message, args) => {
 			let Embed2 = new MessageEmbed()
 			.setColor('RANDOM')
 			.setTitle("Comandos de Yeon Sil")
-			.setDescription("**Nsfw** \n To search info of a command user &help {command} \n 📖 Comandos ```" + global.get('Nsfw') + "```")
+			.setDescription("**Nsfw** \n To search info of a command user &help {command} \n 📖 Comandos ```" + global.get('nsfw') + "```")
 			
 			message.channel.send({ "channel_id": message.channel_id, embeds: [Embed2] });
 			return;

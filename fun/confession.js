@@ -33,7 +33,7 @@ module.exports = async (message, args) => {
         .setDescription(desc)
         .setFooter("This is secret")
         const channel = message.client.channels.cache.find(channel => channel.id === global.get(message.guild.id + ".confess"))
-        channel.send({ "channel_id": global.get(message.guild.id + ".confess"), embeds: [Embed] })
+        channel.send({ "channel_id": channel, embeds: [Embed] })
     
 
 }
